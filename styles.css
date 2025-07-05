@@ -1,0 +1,8 @@
+.cover{
+    font-size: larger;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    width: 100%;
+    height: 400px;
+    background-image: url("skincare/skincare.jpg");
+}
